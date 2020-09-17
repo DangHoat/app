@@ -1,0 +1,51 @@
+.admin__general__card .card-body .badge label:last-child{
+    color: orange;
+}
+
+.admin__general__card .card-body button{
+    width: 100%;
+}
+
+.admin__imgUpdate{
+    cursor: pointer;
+    position: absolute;
+    margin:auto;
+    left: 0;
+    right: 0;
+    object-fit: cover;
+    object-position: center;
+}
+
+.admin__general__containerImgUpdate:hover .admin__general__iconUpdateAvt{
+    display: block
+}
+
+.admin__general__containerImgUpdate{
+    height: 128px;
+    width: 128px;
+    margin:auto;
+    left: 0;
+    right: 0;
+}
+
+.admin__general__iconUpdateAvt{
+    cursor: pointer;
+    display: none;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: 90%;
+
+    background: linear-gradient( transparent, rgba(0, 0, 0, .6) 50%, rgba(0, 0, 0, .6) 100% );
+    border-bottom-left-radius: 64px;
+    border-bottom-right-radius: 64px;
+    height: 50%;
+    top: 56%;
+    transition: top .13s ease-out;
+}
+
+.admin__general__iconUpdateAvt:hover .admin__general__iconUpdateEffect{
+    transform: scale(1.07);
+}

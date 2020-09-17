@@ -1,0 +1,22 @@
+.WorkDetail .card-task table tr td:first-child span{
+    display: none;
+}
+
+.WorkDetail .card-task table tr:hover td>span{
+    display: block;
+}
+
+.WorkDetail .card-left .card-title div div span:last-child{
+    display: none;
+}
+
+.WorkDetail .card-left .card-title div div:hover  span:last-child{
+    display: unset;
+}
+
+
+.WorkDetail .financial tr{
+    height: 4rem;
+}
+
+

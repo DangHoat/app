@@ -1,0 +1,86 @@
+[
+    {
+        "avatar": "avatar1",
+        "username": "Phan Văn Hiện",
+        "position": "Kế Toán",
+        "Status": "active",
+        "Email": "hienpv@gmail.com"
+    },
+    {
+        "avatar": "avatar3",
+        "username": "Nguyễn Quốc Uy",
+        "position": "Giám đốc",
+        "Status": "active",
+        "Email": "uynq@gmail.com"
+    },
+    {
+        "avatar": "avatar4",
+        "username": "Nguyễn Văn Giỏi",
+        "position": "Nhân viên kĩ thuật",
+        "Status": "active",
+        "Email": "gioinv@gmail.com"
+    },
+    {
+        "avatar": "avatar2",
+        "username": "Hoàng Minh Hiếu",
+        "position": "Nhân viên kĩ thuật",
+        "Status": "lock",
+        "Email": "hieuhm@gmail.com"
+    },
+    {
+        "avatar": "avatar5",
+        "username": "Đặng Xuân Hoạt",
+        "position": "Kế Toán",
+        "Status": "active",
+        "Email": "Example@gmail.com"
+    },
+    {
+        "avatar": "avatar3",
+        "username": "Hoàng Đăng Trường",
+        "position": "Phiên dịch",
+        "Status": "active",
+        "Email": "Example@gmail.com"
+    },
+    {
+        "avatar": "avatar4",
+        "username": "Nguyễn Khắc Sáng",
+        "position": "Kế Toán",
+        "Status": "lock",
+        "Email": "Ngockham12312@gmail.com"
+    },
+    {
+        "avatar": "avatar2",
+        "username": "Nguyễn Thị Hiền",
+        "position": "Kế Toán",
+        "Status": "inactive",
+        "Email": "Example@gmail.com"
+    },
+    {
+        "avatar": "avatar5",
+        "username": "Nguyễn Văn Tiến",
+        "position": "Phiên dịch",
+        "Status": "inactive",
+        "Email": "Example@gmail.com"
+    },
+    {
+        "avatar": "avatar4",
+        "username": "Nguyễn Văn Tú",
+        "position": "Kế Toán",
+        "Status": "inactive",
+        "Email": "Example@gmail.com"
+    },
+    {
+        "avatar": "avatar3",
+        "username": "Nguyễn Thị Hòa",
+        "position": "Kế Toán",
+        "Status": "inactive",
+        "Email": "Example@gmail.com"
+    },
+    {
+        "avatar": "avatar2",
+        "username": "Phạm Tấn Thành",
+        "position": "Kế Toán",
+        "Status": "inactive",
+        "Email": "Example@gmail.com"
+    }
+]

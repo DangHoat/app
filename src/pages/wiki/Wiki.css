@@ -1,0 +1,38 @@
+
+.Wiki .listwiki {
+    background: #ffffff;
+    cursor: pointer;
+    text-indent: 12px;
+}
+
+.Wiki .listwiki>.float-right {
+    display: none;
+}
+
+.Wiki .listwikiactive>.float-right {
+    display: none;
+}
+
+.Wiki .listwiki:hover>.float-right {
+    display: block;
+}
+
+.Wiki .listwikiactive:hover>.float-right {
+    display: block;
+}
+
+.Wiki .listwikiactive {
+    color: #fff;
+    background: #47bac1;
+    cursor: pointer;
+    text-indent: 12px;
+}
+
+.Wiki .listwikiactive:hover {
+    background: #47bac1;
+    cursor: pointer;
+}
+.Wiki .TextColor {
+    color: #47BAC1;
+    cursor: pointer;
+}

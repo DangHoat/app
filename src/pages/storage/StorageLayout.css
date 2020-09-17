@@ -1,0 +1,49 @@
+/* .File-mine_col-project :hover{
+    cursor: pointer;
+    color : rgb(136, 239, 247)
+}
+.File-their_col-project :hover{
+    cursor: pointer;
+    color : rgb(136, 239, 247)
+} */
+.File-mine_col-id{
+    width: 5%;
+}
+.File-mine_col-type{
+    width: 15%;
+}
+.File-mine_col-file{
+    width: 15%;
+}
+.File-mine_col-project{
+    width: 25%;
+}
+.File-mine_col-date{
+    width: 20%;
+}
+.File-mine_col-description{
+    width: 25%;
+}
+
+.File-their_col-id{
+    width: 5%;
+}
+.File-their_col-type{
+    width: 10%;
+}
+.File-their_col-file{
+    width: 15%;
+}
+.File-their_col-project{
+    width: 20%;
+}
+.File-their_col-date{
+    width: 15%;
+}
+.File-their_col-uploader{
+    width: 20%;
+}
+.File-their_col-description{
+    width: 20%;
+}
+

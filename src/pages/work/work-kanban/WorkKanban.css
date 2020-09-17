@@ -1,0 +1,90 @@
+
+.work-kanban__lane__card__body > div{
+    min-height: 2.3rem;
+    max-height: 40rem;
+    /*height: 40rem;*/
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.work-kanban__lane__card__body > div::-webkit-scrollbar {
+    width: 0.1rem;
+    background-color: #F5F5F5;
+}
+
+.work-kanban__lane__card__body > div::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #80deea;
+}
+
+/* .work-kanban__lane--new__card__header, .work-kanban__lane--ready__card__header, .work-kanban__lane--in-progress__card__header, .work-kanban__lane--ready-for-test__card__header, .work-kanban__lane--done__card__header, .work-kanban__lane--archived__card__header{*/
+/*    padding-bottom: 0.2rem;*/
+/*} */
+
+.work-kanban__lane--New__card__header  {
+    border-top: 5px solid #999999;
+}
+.work-kanban__lane--Ready__card__header  {
+    border-top: 5px solid #FF8A84;
+}
+
+.work-kanban__lane--In-Progress__card__header  {
+    border-top: 5px solid #FF9900;
+}
+
+.work-kanban__lane--Ready-for-test__card__header  {
+    border-top: 5px solid #FCC000;
+}
+
+.work-kanban__lane--Done__card__header  {
+    border-top: 5px solid #669900;
+}
+
+.work-kanban__lane--Archived__card__header  {
+    border-top: 5px solid #5C3566;
+}
+/**/
+
+.work-kanban__work__card__header span{
+    cursor: pointer;
+    border: solid 1px #B2B2B2;
+    width: 1.7rem;
+    height: 1.7rem;
+    display: inline-flex;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+}
+
+.work-kanban__work__card .progress{
+    height: 0.1em;
+}
+
+.work-kanban__work__card img{
+    cursor: pointer;
+    width: 1.7rem;
+    height: 1.7rem;
+}
+
+.work-kanban__work__card__header{
+    padding: 0.4rem;
+    height: 2.6rem;
+}
+
+
+.work-kanban__work__card__body{
+    min-height: 2.6rem;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+.work-kanban__work__card__body > a{
+     text-decoration: none;
+     color: black;
+ }
+
+.work-kanban__work__card__body > a:hover{
+     color: grey;
+ }

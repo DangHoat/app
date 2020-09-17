@@ -1,0 +1,96 @@
+.UpDown:hover{
+    cursor: pointer;
+}
+.header-list-issue{
+    min-height: 87px;
+}
+.issue-icon:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: all ease-in-out 0.1s;
+}
+.issue-table{
+    min-height: 200px;
+}
+.hover-color >.assign>.chevronDown{
+    display: none;
+}
+.hover-color:hover > .assign> .chevronDown{
+    display: inline-block;
+}
+.status >.text-status{
+    height: 10px;
+    margin-top: -12px;
+}
+.hover-color> .status>.text-status >.chevronDown{
+    display: none;
+}
+
+.hover-color:hover > .status>.text-status >.chevronDown{
+    display: inline-block;
+}
+.Lock{
+    margin-top: 5px;
+}
+.left_content{
+    display: inline-block;
+}
+.contentissue_btn{
+    margin-left: 19px;
+}
+.card-header-issue-detail{
+    min-height: 87px;
+}
+/* CSS thừa */
+.watch{
+    background: #767667;
+    min-width: 160.5px;
+    
+}
+.contentissue_btn2{
+    margin-top: 5px;
+    margin-left: 19px;
+    height: 40px;
+    width: 47px;
+}
+.faClock{
+    background: #555;
+
+}
+.faThumbsUp ,.faThumbtack ,.faLock{
+    background: #767667;
+}
+.faThumbtack:hover{
+    background: green;
+}
+.contentissue-assign{
+    height: 30px;
+    
+}
+.contentissue-assign >.text-color-green{
+    cursor: pointer;
+}
+.contentissue_img{
+    margin-left: 30px;
+}
+.issue-create{
+    display: inline;
+    margin-top: -30px;
+}
+.img-author{
+    margin-top: -35px
+}
+.comment{
+    background:#f5f9fc;
+}
+.btn-comment{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.img-issue-1{
+    margin-top: -25px;
+}
+.issue-comment{
+    margin-top: -30px;
+    margin-left: 60px;
+}

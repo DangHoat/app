@@ -1,0 +1,11 @@
+.discover__background {
+    background-color: cornflowerblue
+}
+.discover__link:hover {
+    color: black !important;
+    background-color: blue
+}
+
+.discover__project-content{
+    flex: 1;
+}

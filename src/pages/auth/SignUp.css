@@ -1,0 +1,38 @@
+.signup-container{
+    width: 370px;
+}
+.signup-card{
+    border-radius: 1rem;
+}
+.signup-text-register{
+    color: rgba(17, 104, 138, 0.884);
+    font-size: 2rem;
+    font-weight: 900;
+}
+@media only screen and (max-device-width: 640px){
+    .signup-container{
+        width: 350px;
+    }
+    .signup-card{
+        border-radius: 1rem;
+    }
+    .signup-text-register{
+        color: rgba(17, 104, 138, 0.884);
+        font-size: 2rem;
+        font-weight: 900;
+    }
+}
+@media only screen and (min-device-width: 1400px){
+    .signup-container{
+        width: 570px ;
+    }
+    .signup-card{
+        border-radius: 1rem;
+        padding: 1rem;
+    }
+    .signup-text-register{
+        color: rgba(17, 104, 138, 0.884);
+        font-size: 3rem;
+        font-weight: 900;
+    }
+}

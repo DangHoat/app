@@ -1,0 +1,45 @@
+.page404-h1{
+    color: rgba(3, 25, 34, 0.884);
+    font-size: 2rem;
+    font-weight: 600;
+}
+.page404-p{
+    color: rgba(6, 41, 54, 0.884);
+    font-size: 1rem;
+    font-weight: 600;
+}
+.page404-0{
+    color: rgba(75, 176, 212, 0.884) !important;
+}
+.page404-button{
+    font-weight: 900;
+    font-size: 1rem;
+    background-color: hsl(202, 69%, 32%);
+    color: #fff;
+}
+.page404-img{   
+    width: 400px;
+    height: 266.656px;
+}
+@media only screen and (min-device-width: 1400px){
+    .page404-h1{
+        color: rgba(3, 25, 34, 0.884);
+        font-size: 4rem;
+        font-weight: 700;
+    }
+    .page404-p{
+        color: rgba(30, 77, 94, 0.884);
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .page404-button{
+        font-weight: 900;
+        font-size: 1.5rem;
+        background-color: hsl(202, 69%, 32%);
+        color: #fff;
+    }
+    .page404-img{   
+        width: 600px;
+        height: 400px;
+    }
+}

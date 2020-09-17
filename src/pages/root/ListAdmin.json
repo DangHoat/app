@@ -1,0 +1,34 @@
+[
+    {
+        "avatar": "avatar1",
+        "username": "Phan Văn Hiện",
+        "role": "Moderator",
+        "Status": "active",
+        "email": "hienpv@gmail.com",
+        "phone": "+84912345678"
+    },
+    {
+        "avatar": "avatar3",
+        "username": "Nguyễn Quốc Uy",
+        "role": "Super Admin",
+        "Status": "active",
+        "email": "uynq@gmail.com",
+        "phone": "+84987654321"
+    },
+    {
+        "avatar": "avatar4",
+        "username": "Nguyễn Văn Giỏi",
+        "role": "Moderator",
+        "Status": "active",
+        "email": "gioinv@gmail.com",
+        "phone": "+84999999999"
+    },
+    {
+        "avatar": "avatar2",
+        "username": "Hoàng Minh Hiếu",
+        "role": "Moderator",
+        "Status": "active",
+        "email": "hieuhm@gmail.com",
+        "phone": "+84911111111"
+    }   
+]

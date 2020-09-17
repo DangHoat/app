@@ -1,0 +1,11 @@
+.item-exit {
+    opacity: 1;
+    transition: opacity 1000ms ease-in;
+}
+
+.item-exit-active {
+    background-color: red;
+    background-image: linear-gradient(to right,#e0f7fa,#b2ebf2, #80deea, #84ffff, #18ffff,#29b6f6,#03a9f4, #00b0ff, #0091ea);
+    transform: translateX(100%);
+    transition: transform 1s ease-in;
+}

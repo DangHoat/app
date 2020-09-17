@@ -1,0 +1,53 @@
+@media only screen and (min-width: 360px) and (max-width: 375px) {
+    .SignIn-form, .SignIn-alert {
+        width: 15rem;
+    }
+}
+
+@media only screen and (min-width: 376px) and (max-width: 414px) {
+    .SignIn-form {
+        width: 16rem;
+        height: 25rem;
+    }
+    .SignIn-alert {
+        width: 16rem;
+    }
+}
+
+@media only screen and (min-width: 415px) and (max-width: 1920px) {
+    .SignIn-form {
+        width: 25rem;
+        min-height: 33rem;
+    }
+    .SignIn-alert {
+        width: 25rem;
+    }
+    .SignIn-card {
+        padding-left: 3rem;
+    }
+}
+
+.SignIn-form {
+    border-radius: 1.5rem;
+}
+
+.SignIn-text {
+    text-shadow: 
+        0 1px 0 rgb(195, 239, 250),
+		0 2px 0 #a1e7f8,
+		0 3px 0 rgb(144, 248, 248),
+		0 4px 0 #7ddef7,
+		0 5px 0 rgb(95, 230, 248),
+		0 6px 1px rgba(1, 27, 37, 0.1),
+		0 0 5px rgba(1, 48, 66, 0.1),
+		0 1px 3px rgba(1, 55, 99, 0.3),
+		0 3px 5px rgba(2, 52, 99, 0.2),
+		0 5px 10px rgba(2, 57, 129, 0.25),
+		0 10px 10px rgba(1, 42, 88, 0.2),
+        0 20px 20px rgba(1, 39, 82, 0.15);
+    color: deepskyblue
+}
+
+.SignIn-font-size__text {
+    font-size: 3rem;
+}

@@ -1,0 +1,9 @@
+.epic__table__hidden--header {
+    display: none;
+}
+
+.epic__expanded--table {
+    border: inset;
+    border-color: gray;
+    border-top: none
+}

@@ -1,0 +1,81 @@
+.pricing-card {
+    border: 0;
+    border-radius: 0px;
+    -webkit-box-shadow: 0 3px 0px 0 rgba(0, 0, 0, .08);
+    box-shadow: 0 3px 0px 0 rgba(219, 167, 167, 0.08);
+    transition: all .3s ease-in-out;
+    padding: 2.25rem 0;
+    position: relative;
+    will-change: transform;
+    border-radius: 2rem 2rem 2rem 2rem;
+}
+.pricing-card:hover {
+    transform: scale(1.03);
+    -webkit-box-shadow: 0 20px 35px 0 rgba(0, 0, 0, .08);
+    box-shadow: 5px 20px 35px 0 rgba(0, 0, 0, 0.08);
+}
+
+.pricing-tab{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.pricing-btn_block{
+        text-transform: uppercase;
+        font-size: 100%;
+        font-weight: 200;
+        color: lighten(#808080, 15%);
+        border-radius: 0;
+        padding: .75rem 1.25rem;
+        letter-spacing: 1px;
+        border: 0px;
+} 
+.pricing-btn_block:hover {
+    color: white;
+    background-color:  #ee3838;
+}
+
+.pricing-table__tab-content__tab-pane__col__card-background-color{
+    background-color: #e0eef2 !important;
+}
+.pricing-table__tab-content__tab-pane__col__card-background-color:hover{
+    background-color: #97d9f3 !important;
+}
+.pricing-question-background-color{
+    background-color: #dbf8da !important;
+}
+.pricing-question-background-color:hover{
+    background-color: #a6faaa !important;
+}
+.pricing-table__tab-content__tab-pane__row__cad__car-body__li__span{
+    color: #dde931;
+    font-size: 1.5rem;
+    margin-top: -0.5rem;
+}
+.pricing-font{
+    font-size: 2.1125rem !important;
+    margin-bottom: 12px !important;
+    color: #f01111;
+}
+
+@media only screen and (min-device-width: 300px)
+and (max-device-width: 812px){
+    .pricing-table__tab-content__tab-pane__row__col__card__card-body-intro{
+        padding-left: 0.1rem;
+    }
+    .pricing-table__tab-content__tab-pane__row__col__card__card-body{
+        padding-left: 0.1rem !important;
+        padding-right: 0.1rem !important;
+    }
+    .pricing-table__tab-content__tab-pane__row__col__card__car-body-cost{
+        padding-bottom: 0px;
+    }
+    .pricing-table__tab-content__tab-pane__row__cad__car-body__li__span{
+        padding-right: 0.4rem;
+        font-size: 1rem;
+    }
+    .pricing-table__tab-content__tab-pane__card__font-family{
+        font-size: 0.9rem;
+    }
+}
+
+
